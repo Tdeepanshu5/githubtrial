@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!,yahan se new add kiya,ek or modification kiya");
+            Console.WriteLine("Hello, World!,yahan se new add kiya,ek or modification kiya"); Console.WriteLine("Hello, World!,yahan se new add kiya,ek or modification kiya"); Console.WriteLine("Hello, World!,yahan se new add kiya,ek or modification kiya"); Console.WriteLine("Hello, World!,yahan se new add kiya,ek or modification kiya"); Console.WriteLine("Hello, World!,yahan se new add kiya,ek or modification kiya");
         }
     }
 }
